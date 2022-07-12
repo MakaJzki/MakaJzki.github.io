@@ -1,3 +1,3 @@
-# kingeling.se
+# Kingeling
 
-This is the page for kingeling.se
+This is the webpage for kingeling.se
