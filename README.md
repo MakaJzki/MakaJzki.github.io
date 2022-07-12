@@ -1,3 +1,4 @@
 # Kingeling
 
-This is the webpage for kingeling.se
+This is the README for webpage kingeling.se
+Currently work in progress
