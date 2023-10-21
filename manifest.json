@@ -24,7 +24,7 @@
 				"details-level": "full",
 				"method": "get",
 				"trigger-id": "gateways-details-pane",
-				"url": "index.html"
+				"url": "https://supportcenter.checkpoint.com/search#f[commonsource]=A.%20SecureKnowledge"
 		}
 	  }
     }
