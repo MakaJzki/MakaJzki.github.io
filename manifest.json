@@ -1,0 +1,35 @@
+{
+  "extension": {
+	  "name": "Packet Capture",
+	  "version": "0.1",
+	  "description": "",
+	  "author": "Marcus Johansson",
+	  "email": "marcus.johansson@kingeling.se",
+	  "product-url": "https://www.kingeling.se",
+	  "provider": "www.kingeling.se",
+	  "license": "GPL",
+	  "extension-version-requirements": {
+		  "minimum-version": "1.2"
+    }
+  },
+  "locations": [
+    {
+		"location": "details-pane",
+		"relevant-types": ["gateways"],
+		"ui-element": {
+			"type": "tab",
+			"caption": "Packet Capture",
+			"tooltip": "Packet Capture",
+			"action": {
+				"details-level": "full",
+				"method": "get",
+				"trigger-id": "gateways-details-pane",
+				"url": "test.htm"
+		}
+	  }
+    }
+  ],
+	"requested-permissions": {
+		"client": ["get-read-only-session", "run-read-only-commands"]
+  }
+}
