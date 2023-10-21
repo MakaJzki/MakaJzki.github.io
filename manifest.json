@@ -24,7 +24,7 @@
 				"details-level": "full",
 				"method": "get",
 				"trigger-id": "gateways-details-pane",
-				"url": "test.htm"
+				"url": "index.html"
 		}
 	  }
     }
